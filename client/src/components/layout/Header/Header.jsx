@@ -30,17 +30,12 @@ const Header = () => {
 
         <div className="pagesContainer">
           <ul>
-            <div>
             <li>
               <Link to="/">Home</Link>
             </li>
-            </div>
-            <div>
             <li>
               <Link to="/products">Menu</Link>
             </li>
-            </div>
-            
             {/* <li>
               <Link to="/contact">Contact</Link>
             </li> */}
